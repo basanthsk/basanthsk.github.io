@@ -1,6 +1,17 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
 
 ---
+
+### Understanding The Disconnect between Skills and Jobs in Ghana usning NLP
+
+Gathered relevant job description and candidate resume data from appropriate websites using web scrapping techniques, built an NLP model to by finetuning DistilBERT using job description data. The build model is used to find the category of  candidate resume based on the text into relevant job categories
+The model enabled efficient processing of large amounts of text data to quickly analyze and extract insights from job description and candidate resume data. This project demonstrated technical expertise in NLP and ability to leverage cutting-edge tools and techniques to solve complex data science problems
+
+https://huggingface.co/spaces/omdenalagos/job_skill_cat
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://drive.google.com/file/d/1gEfUpITqqETvxJ5Awy2wcHd4qcW7hhTB/view?usp=sharing)
 
 ### Category Name 1 
 
