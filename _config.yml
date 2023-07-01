@@ -5,9 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a data scientist with 3+ years of industrial experience in product development and management. 
   I have a PhD in Physics from IIT Madras, where I managed a research project on quantum optics and conducted various experiments on photon interference. 
   I have strong skills in data analysis, machine learning, programming, and communication. 
-  <br><br>
-   
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/basanthsk/">View My LinkedIn Profile</a> 
   
 # remote_theme: pages-themes/minimal@v0.2.0
