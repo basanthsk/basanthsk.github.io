@@ -4,12 +4,21 @@
 
 ### Understanding The Disconnect between Skills and Jobs in Ghana usning NLP
 
-Gathered relevant job description and candidate resume data from appropriate websites using web scrapping techniques, built an NLP model to by finetuning DistilBERT using job description data. The build model is used to find the category of  candidate resume based on the text into relevant job categories
-The model enabled efficient processing of large amounts of text data to quickly analyze and extract insights from job description and candidate resume data. This project demonstrated technical expertise in NLP and ability to leverage cutting-edge tools and techniques to solve complex data science problems
+Using web scrapping techniques, collected job description and candidate resume data from relevant websites. Fine-tuned DistilBERT, an NLP model, using the job description data to classify candidate resumes into different job categories based on their text. This project enabled fast and accurate analysis of large text data sets to extract insights from job description and candidate resume data. It also showcased my technical skills in NLP and my ability to use advanced tools and methods to solve complex data science challenges.
+
+<img src="images/lagos_jobgap_demo.JPG?raw=true"/>
 
 deployed steamlit application: https://huggingface.co/spaces/omdenalagos/job_skill_cat
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gEfUpITqqETvxJ5Awy2wcHd4qcW7hhTB/view?usp=sharing)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
+[![](https://img.shields.io/badge/Transformers-Hugging_Face-orange?logo=Huggingface)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458)](#)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/omdenalagos/job_skill_cat) 
 
 [View code on Colab](https://drive.google.com/file/d/1gEfUpITqqETvxJ5Awy2wcHd4qcW7hhTB/view?usp=sharing)
 
@@ -21,36 +30,24 @@ The Python code is developed in a modular design based on the OOPS principle, an
 
 https://github.com/basanthsk/chicken-disease-classification
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
-[![](https://img.shields.io/badge/Colab-white?logo=Colab)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=D00000)](#)
+[![](https://img.shields.io/badge/DVC-white?logo=dvc&logoColor=13ADC7)](#)
+[![Github Actions Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fweiji14%2Fdeepbedmap%2Fbadge&style=flat)](https://github.com/basanthsk/chicken-disease-classification/actions)
+[![](https://img.shields.io/badge/AWS-white?logo=Amazon)](#) 
+
+### Deep Reinforcement Learning based Recommender System 
+
+In this project, we aim to implement a deep reinforcement learning based recommender system, inspired by the paper Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling by Liu et al. We use the DDPG algorithm, which combines actor-critic and deterministic policy gradient methods, to learn a policy that maximizes the expected reward for recommending items to users. To handle the high-dimensional and sparse user-item interaction data, we add a state representation module that transforms the data into a trainable state vector for the RL algorithm. This is not the official implementation of the paper, but our own attempt to reproduce and extend their work.
+
+https://github.com/basanthsk/RL_DDPG
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458)](#)
 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
