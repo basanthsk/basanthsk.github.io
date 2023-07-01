@@ -1,15 +1,16 @@
 title: Dr.Basanth Kalanoor # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   I am a data scientist with 3+ years of industrial experience in product development and management. 
   I have a PhD in Physics from IIT Madras, where I managed a research project on quantum optics and conducted various experiments on photon interference. 
   I have strong skills in data analysis, machine learning, programming, and communication. 
   <br><br>
-  Second description 
+   
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/basanthsk/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
