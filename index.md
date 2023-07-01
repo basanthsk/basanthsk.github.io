@@ -36,7 +36,7 @@ https://github.com/basanthsk/chicken-disease-classification
 [![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=D00000)](#)
 [![](https://img.shields.io/badge/DVC-white?logo=dvc&logoColor=13ADC7)](#)
 [![Github Actions Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fweiji14%2Fdeepbedmap%2Fbadge&style=flat)](https://github.com/basanthsk/chicken-disease-classification/actions)
-[![](https://img.shields.io/badge/AWS-white?logo=Amazon)](#) 
+[![](https://img.shields.io/badge/AWS-white?logo=amazonaws&logoColor=232F3E)](#) 
 
 ### Deep Reinforcement Learning based Recommender System 
 
