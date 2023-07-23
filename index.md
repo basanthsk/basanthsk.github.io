@@ -8,7 +8,7 @@ Using web scrapping techniques, collected job description and candidate resume d
 
 <img src="images/lagos_jobgap_demo.JPG?raw=true"/>
 
-deployed steamlit application: https://huggingface.co/spaces/omdenalagos/job_skill_cat
+deployed steamlit application: https://nigeriajobskillgap.streamlit.app/
 
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gEfUpITqqETvxJ5Awy2wcHd4qcW7hhTB/view?usp=sharing)
