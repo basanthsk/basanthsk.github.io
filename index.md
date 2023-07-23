@@ -22,6 +22,8 @@ deployed steamlit application: https://nigeriajobskillgap.streamlit.app/
 
 [View code on Colab](https://drive.google.com/file/d/1gEfUpITqqETvxJ5Awy2wcHd4qcW7hhTB/view?usp=sharing)
 
+---
+
 ### End-to-End AI/ML project for detection of chicken diseases using images of poultry fecal as the basis for its detection
 
 In order to diagnose poultry diseases for small- to medium-scale poultry farmers, images of poultry fecal are used. The images are classified as "Coccidiosis", "Healthy", "New Castle Disease", and "Salmonella".
@@ -38,6 +40,8 @@ https://github.com/basanthsk/chicken-disease-classification
 [![Github Actions Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fweiji14%2Fdeepbedmap%2Fbadge&style=flat)](https://github.com/basanthsk/chicken-disease-classification/actions)
 [![](https://img.shields.io/badge/AWS-white?logo=amazonaws&logoColor=232F3E)](#) 
 
+---
+
 ### Deep Reinforcement Learning based Recommender System 
 
 In this project, we aim to implement a deep reinforcement learning based recommender system, inspired by the paper Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling by Liu et al. We use the DDPG algorithm, which combines actor-critic and deterministic policy gradient methods, to learn a policy that maximizes the expected reward for recommending items to users. To handle the high-dimensional and sparse user-item interaction data, we add a state representation module that transforms the data into a trainable state vector for the RL algorithm. This is not the official implementation of the paper, but our own attempt to reproduce and extend their work.
@@ -50,4 +54,5 @@ https://github.com/basanthsk/RL_DDPG
 [![](https://img.shields.io/badge/Colab-white?logo=googlecolab)](#)
 [![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458)](#)
 
+---
 
